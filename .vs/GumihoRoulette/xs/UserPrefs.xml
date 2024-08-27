@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0A9B708A-50D0-32A8-839B-3795EC9C1F81}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/gumihoroulette/Script/GameController.cs">
+    <Files>
+      <File FileName="Assets/gumihoroulette/Script/GameController.cs" Line="437" Column="10" />
+      <File FileName="Assets/gumihoroulette/Script/Bar.cs" Line="27" Column="91" />
+      <File FileName="Assets/gumihoroulette/Script/GlassOut.cs" Line="7" Column="32" />
+      <File FileName="Assets/gumihoroulette/Script/ResultBar.cs" Line="15" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GumihoRoulette" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="gumihoroulette" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="GameController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1870c5a2-2d3e-4565-a167-888e3e6ba102" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
